@@ -8,4 +8,5 @@ dependencies = [
     "google-adk>=1.18.0",
     "jupyter>=1.1.1",
     "python-dotenv>=1.2.1",
+    "ruff>=0.14.6",
 ]
